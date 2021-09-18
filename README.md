@@ -12,8 +12,4 @@
 
 <h2 align="left">Cool projects</h2>
 
-[![Hollywood API](https://github-readme-stats.vercel.app/api/pin/?username=antonderegt&repo=hollywood-api)](https://github.com/antonderegt/hollywood-api)
 [![RPG Characters](https://github-readme-stats.vercel.app/api/pin/?username=antonderegt&repo=rpg-characters)](https://github.com/antonderegt/rpg-characters)
-[![Pokemon Trainer](https://github-readme-stats.vercel.app/api/pin/?username=antonderegt&repo=pokemon-trainer)](https://github.com/antonderegt/pokemon-trainer)
-[![Lost in Translation](https://github-readme-stats.vercel.app/api/pin/?username=antonderegt&repo=lost-in-translation)](https://github.com/antonderegt/lost-in-translation)
-[![Trivia Game](https://github-readme-stats.vercel.app/api/pin/?username=antonderegt&repo=trivia-game)](https://github.com/antonderegt/trivia-game)
